@@ -1,6 +1,6 @@
 # SISTEMA DE HOSPITAL
 
-Esse é um sistema em linguagem C para cadastro de pacientes diagnosticados com Covid-19. Foi desenvolvido a partir de uma atividade do primeiro semestre do curso superior de tecnologia de análise e desenvolvimento de sistemas da Universidade Paulista. Para sua execução plena é recomendado o uso da IDE CodeBlocks.
+Esse é um sistema em linguagem C para cadastro de pacientes diagnosticados com Covid-19. Foi desenvolvido como atividade do primeiro semestre do curso superior de tecnologia de análise e desenvolvimento de sistemas da Universidade Paulista. Para sua execução plena é recomendado o uso da IDE CodeBlocks.
 
 ![](img-readme/foto_1.jpg)
  
